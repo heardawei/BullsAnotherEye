@@ -10,6 +10,7 @@
 		6D8123642191311E00BBA519 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D8123632191311E00BBA519 /* AboutViewController.swift */; };
 		6D81236C219165A400BBA519 /* bulls_another_eye.html in Resources */ = {isa = PBXBuildFile; fileRef = 6D81236B219165A400BBA519 /* bulls_another_eye.html */; };
 		6D81236E21918F1C00BBA519 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6D81236D21918F1C00BBA519 /* Assets.xcassets */; };
+		6D8123702192EBCB00BBA519 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 6D81236F2192EBCB00BBA519 /* README.md */; };
 		6DA2E65421901C05009D4D83 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DA2E65321901C05009D4D83 /* AppDelegate.swift */; };
 		6DA2E65621901C05009D4D83 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DA2E65521901C05009D4D83 /* ViewController.swift */; };
 		6DA2E65921901C05009D4D83 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6DA2E65721901C05009D4D83 /* Main.storyboard */; };
@@ -19,6 +20,7 @@
 		6D8123632191311E00BBA519 /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
 		6D81236B219165A400BBA519 /* bulls_another_eye.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = bulls_another_eye.html; path = ../../../../Private/PS/bulls_another_eye.html; sourceTree = "<group>"; };
 		6D81236D21918F1C00BBA519 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		6D81236F2192EBCB00BBA519 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		6DA2E65021901C05009D4D83 /* BullsAnotherEye.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BullsAnotherEye.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6DA2E65321901C05009D4D83 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6DA2E65521901C05009D4D83 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,6 +42,7 @@
 		6DA2E64721901C05009D4D83 = {
 			isa = PBXGroup;
 			children = (
+				6D81236F2192EBCB00BBA519 /* README.md */,
 				6DA2E65221901C05009D4D83 /* BullsAnotherEye */,
 				6DA2E65121901C05009D4D83 /* Products */,
 			);
@@ -128,6 +131,7 @@
 			files = (
 				6D81236C219165A400BBA519 /* bulls_another_eye.html in Resources */,
 				6D81236E21918F1C00BBA519 /* Assets.xcassets in Resources */,
+				6D8123702192EBCB00BBA519 /* README.md in Resources */,
 				6DA2E65921901C05009D4D83 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
