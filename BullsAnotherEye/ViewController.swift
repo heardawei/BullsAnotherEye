@@ -70,10 +70,8 @@ class ViewController: UIViewController {
         let sliderCursorNormal = UIImage(named: "football_normal")!
         slider.setThumbImage(sliderCursorNormal, for: .normal)
         
-        let sliderCursorHighLight = UIImage(named: "football_normal")!
+        let sliderCursorHighLight = UIImage(named: "football_highlighted")!
         slider.setThumbImage(sliderCursorHighLight, for: .highlighted)
-        
-        
     }
     
     func restartImpl() {
