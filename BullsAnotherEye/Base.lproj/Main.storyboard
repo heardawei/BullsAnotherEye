@@ -89,8 +89,7 @@
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <state key="normal" title="重新开始"/>
                                         <connections>
-                                            <action selector="beforeRestart" destination="BYZ-38-t0r" eventType="touchUpInside" id="bXP-05-Rak"/>
-                                            <action selector="restart" destination="BYZ-38-t0r" eventType="touchUpInside" id="plP-kz-WS7"/>
+                                            <action selector="restart" destination="BYZ-38-t0r" eventType="touchUpInside" id="zxK-df-UAX"/>
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="utC-PV-jfT">
